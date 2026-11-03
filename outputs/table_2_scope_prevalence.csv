@@ -1,0 +1,13 @@
+type,unit,N,Any Clause,Benchmarking Results,Competitive Analysis,Evaluation Confidentiality,Service Publicity,Conditional Benchmarking
+Service,Docs,16301,1325,728,651,329,75,21
+Service,Firms,15776,1295,715,640,323,76,19
+Mixed,Docs,1336,109,66,61,18,2,0
+Mixed,Firms,1249,104,62,57,17,1,0
+Product terms,Docs,17637,1434,794,712,347,77,21
+Product terms,Firms,17025,1399,777,697,340,77,19
+Website-only,Docs,8962,90,62,40,3,3,0
+Website-only,Firms,8674,86,58,39,3,3,0
+Sales terms,Docs,3404,14,4,8,1,3,0
+Sales terms,Firms,3144,14,4,8,1,3,0
+All,Docs,30003,1538,860,760,351,83,21
+All,Firms,28843,1499,839,744,344,83,19

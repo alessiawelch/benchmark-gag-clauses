@@ -1,0 +1,51 @@
+sample_doc,document_id,name,version_id,version_date,url,text_zip,text_path,scope
+51,186500,manatal.com,910498,2026-07-10,https://www.manatal.com/terms-of-service,part-024.zip,186500/termtrove_910498_2026-07-10.txt,Service
+52,153751,Swiss Chalet,873631,2026-06-04,https://swisschalet.com/en/terms.html,part-015.zip,153751/termtrove_873631_2026-06-04.txt,Site-only
+53,178936,polar.com,905010,2026-07-09,https://www.polar.com/en/legal/terms-of-use,part-022.zip,178936/termtrove_905010_2026-07-09.txt,Service
+54,210732,xfire.com,931733,2026-07-13,https://www.xfire.com/terms-018d,part-030.zip,210732/termtrove_931733_2026-07-13.txt,Site-only
+55,216997,oz18.icu,937861,2026-07-14,https://oz18.icu/tos,part-032.zip,216997/termtrove_937861_2026-07-14.txt,Service
+56,154746,Trannymovielist,874495,2026-06-04,https://trannymovielist.com/terms,part-016.zip,154746/termtrove_874495_2026-06-04.txt,Service
+57,140831,Mapsfrontier,850210,2026-02-23,http://www.mapsfrontier.com/terms-of-use,part-010.zip,140831/termtrove_850210_2026-02-23.txt,Mixed
+58,181931,soundstripe.com,907270,2026-07-10,https://www.soundstripe.com/terms-of-use,part-023.zip,181931/termtrove_907270_2026-07-10.txt,Mixed
+59,147852,Equinox,868163,2026-05-24,https://equinox.com/terms,part-013.zip,147852/termtrove_868163_2026-05-24.txt,Site-only
+60,238667,Sparkplatform,985189,2026-08-18,https://sparkplatform.com/docs/terms_of_use/consumer,part-038.zip,238667/termtrove_985189_2026-08-18.txt,Service
+61,1336,Cohere,2296,2023-05-19,https://cohere.com/terms-of-use,part-002.zip,1336/termtrove_2296_2023-05-19.txt,Mixed
+62,155374,Veracode,875025,2026-06-04,https://veracode.com/terms-of-use,part-016.zip,155374/termtrove_875025_2026-06-04.txt,Mixed
+63,231956,Magepow,967514,2026-08-03,https://magepow.com/license-agreement,part-036.zip,231956/termtrove_967514_2026-08-03.txt,Service
+64,187822,myabandonware.com,911448,2026-07-10,https://www.myabandonware.com/terms/,part-024.zip,187822/termtrove_911448_2026-07-10.txt,Site-only
+65,138625,Benchmark Bank,1000571,2026-09-04,https://www.benchmarkbank.com/legal/terms-and-conditions-of-your-account/,part-009.zip,138625/termtrove_1000571_2026-09-04.txt,Sales terms
+66,236053,Vox,971661,2026-08-04,https://vox.co.za/terms-conditions,part-037.zip,236053/termtrove_971661_2026-08-04.txt,Service
+67,204401,smart-hub.io,925357,2026-07-12,https://attekmi.com/legal/terms-of-use,part-028.zip,204401/termtrove_925357_2026-07-12.txt,Site-only
+68,195317,theweather.com,917079,2026-07-11,https://www.theweather.com/legal_notice.html,part-026.zip,195317/termtrove_917079_2026-07-11.txt,Site-only
+69,185687,zippyonline.com,1006385,2026-09-12,https://zippyonline.com/policies/terms-of-service,part-024.zip,185687/termtrove_1006385_2026-09-12.txt,Sales terms
+70,231585,TCS - The Weather Crave,967197,2026-08-03,https://weathercrave.com/weather-services/info/terms-and-conditions,part-036.zip,231585/termtrove_967197_2026-08-03.txt,Sales terms
+71,130819,Avisbudgetgroup,840322,2026-02-21,https://www.avisbudgetgroup.com/home/terms-of-use,part-005.zip,130819/termtrove_840322_2026-02-21.txt,Site-only
+72,135709,Ezrankings,857450,2026-03-26,https://www.ezrankings.com/terms-and-conditions.html,part-008.zip,135709/termtrove_857450_2026-03-26.txt,Mixed
+73,4283,Dakota Community Bank,1007510,2026-09-13,https://www.dakotacommunitybank.com/terms-of-use/,part-004.zip,4283/termtrove_1007510_2026-09-13.txt,Site-only
+74,153277,Oximy,1013985,2026-08-27,https://oximy.com/terms,part-015.zip,153277/termtrove_1013985_2026-08-27.txt,Service
+75,7391,Usuniversity,6499,2026-02-16,https://www.usuniversity.edu/terms,part-004.zip,7391/termtrove_6499_2026-02-16.txt,Site-only
+76,219470,netchex.com,940238,2026-07-14,https://netchex.com/conditions-of-use/,part-032.zip,219470/termtrove_940238_2026-07-14.txt,Mixed
+77,134803,Csmonitor,881876,2026-07-02,https://www.csmonitor.com/About/Terms,part-007.zip,134803/termtrove_881876_2026-07-02.txt,Site-only
+78,137389,ed by our firm; any third party that commits this f,847059,2026-02-22,https://www.aksinteractive.com/terms-and-conditions.php,part-008.zip,137389/termtrove_847059_2026-02-22.txt,Site-only
+79,140195,Johnmaxwellteam,849497,2018-05-24,https://johnmaxwellteam.com/terms/,part-010.zip,140195/termtrove_849497_2018-05-24.txt,Site-only
+80,153891,TeamExtension,873747,2026-06-04,https://teamextension.com/terms-of-use,part-015.zip,153891/termtrove_873747_2026-06-04.txt,Site-only
+81,147663,X-CEL,867962,2026-05-24,https://x-cel.com/terms-conditions,part-013.zip,147663/termtrove_867962_2026-05-24.txt,Sales terms
+82,147714,6scan,868013,2026-05-24,https://6scan.com/terms,part-013.zip,147714/termtrove_868013_2026-05-24.txt,Service
+83,216540,patioproductions.com,996287,2026-08-29,https://www.patioproductions.com/policies/terms-of-service,part-032.zip,216540/termtrove_996287_2026-08-29.txt,Sales terms
+84,212402,risingsunnewspapers.co.za,933607,2026-07-13,https://risingsunchatsworth.co.za/terms-and-conditions/,part-030.zip,212402/termtrove_933607_2026-07-13.txt,Site-only
+85,212139,rootapp.com,933065,2026-07-13,https://www.rootapp.com/terms-of-use,part-030.zip,212139/termtrove_933065_2026-07-13.txt,Service
+86,7318,Wetcc,6427,2026-02-16,https://www.wetcc.edu/terms-of-service/,part-004.zip,7318/termtrove_6427_2026-02-16.txt,Sales terms
+87,202608,tictacarea.com,993723,2026-08-26,https://www.tictacarea.com/en/info/terms-and-conditions-of-use,part-028.zip,202608/termtrove_993723_2026-08-26.txt,Sales terms
+88,153735,Sweet and Savory,873614,2026-06-04,https://sweetandsavory.co/terms-of-use,part-015.zip,153735/termtrove_873614_2026-06-04.txt,Service
+89,136567,Golfclashnotebook,846921,2026-02-22,https://golfclashnotebook.io/terms/,part-008.zip,136567/termtrove_846921_2026-02-22.txt,Site-only
+90,219079,niceic.com,939993,2026-07-14,https://niceic.com/about-us/terms-of-use/,part-032.zip,219079/termtrove_939993_2026-07-14.txt,Site-only
+91,203388,touchofgold.ca,924252,2026-07-12,https://touchofgold.ca/policies/terms-of-service,part-028.zip,203388/termtrove_924252_2026-07-12.txt,Sales terms
+92,230158,Qa,966273,2026-08-02,https://myperfumeshop.qa/policies/terms-of-service,part-036.zip,230158/termtrove_966273_2026-08-02.txt,Sales terms
+93,234709,Northernsafety,969663,2026-08-04,https://northernsafety.com/Terms-Of-Use,part-037.zip,234709/termtrove_969663_2026-08-04.txt,Sales terms
+94,216665,parkfans.net,937644,2026-07-14,https://parkfans.net/help/terms/,part-032.zip,216665/termtrove_937644_2026-07-14.txt,Service
+95,211142,zadroinc.com,932296,2026-07-13,https://zadroinc.com/policies/terms-of-service,part-030.zip,211142/termtrove_932296_2026-07-13.txt,Sales terms
+96,203938,soirty.com,924722,2026-07-12,https://soirty.com/policies/terms-of-service,part-028.zip,203938/termtrove_924722_2026-07-12.txt,Sales terms
+97,147513,The Walton State Bank,867813,2026-05-23,https://waltonstatebank.com/resources/terms,part-013.zip,147513/termtrove_867813_2026-05-23.txt,Site-only
+98,180602,safsale.com,989282,2026-08-21,https://safsale.com/terms-conditions,part-023.zip,180602/termtrove_989282_2026-08-21.txt,Sales terms
+99,229909,Mad Barn,998413,2026-08-16,https://madbarn.com/terms-and-conditions,part-036.zip,229909/termtrove_998413_2026-08-16.txt,Sales terms
+100,195757,transport10.com,992404,2026-08-25,https://www.transport10.com/terms,part-026.zip,195757/termtrove_992404_2026-08-25.txt,Mixed

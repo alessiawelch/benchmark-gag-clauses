@@ -1,0 +1,51 @@
+sample_doc,document_id,name,version_id,version_date,url,text_zip,text_path,scope
+1,230129,Musicinafrica,982747,2026-08-15,https://musicinafrica.net/legal_page/terms-use,part-036.zip,230129/termtrove_982747_2026-08-15.txt,Service
+2,196329,untalent.org,917914,2026-07-11,https://untalent.org/terms,part-027.zip,196329/termtrove_917914_2026-07-11.txt,Site-only
+3,158436,Invisible Software,881131,2026-07-02,https://revenuegrid.com/terms-conditions,part-017.zip,158436/termtrove_881131_2026-07-02.txt,Mixed
+4,200038,swissfood.store,920768,2026-07-12,https://swissfood.store/terms-and-conditions/,part-027.zip,200038/termtrove_920768_2026-07-12.txt,Sales terms
+5,190317,plantengineering.com,913233,2026-07-10,https://www.plantengineering.com/about-us/terms-of-use/,part-025.zip,190317/termtrove_913233_2026-07-10.txt,Mixed
+6,181311,shoppinggives.com,906824,2026-07-10,https://www.shoppinggives.com/terms-of-use,part-023.zip,181311/termtrove_906824_2026-07-10.txt,Mixed
+7,203344,towerhealth.org,993875,2026-08-26,https://towerhealth.org/terms-use,part-028.zip,203344/termtrove_993875_2026-08-26.txt,Site-only
+8,227863,Kore,998091,2026-08-31,https://kore.ai/terms-of-service,part-035.zip,227863/termtrove_998091_2026-08-31.txt,Service
+9,215992,petmania.ie,996193,2026-08-29,https://www.petmania.ie/grooming-conditions-of-service/,part-031.zip,215992/termtrove_996193_2026-08-29.txt,Sales terms
+10,189985,perfectvenue.com,912980,2026-07-10,https://www.perfectvenue.com/terms-of-service,part-025.zip,189985/termtrove_912980_2026-07-10.txt,Service
+11,170810,fml-x.com,898152,2026-07-08,https://fundamentalgroup.com/terms-of-use,part-020.zip,170810/termtrove_898152_2026-07-08.txt,Site-only
+12,214151,pulsardevelopments.com,935130,2026-07-13,https://pulsardevelopments.com/terms-conditions,part-031.zip,214151/termtrove_935130_2026-07-13.txt,Sales terms
+13,139816,i-to-i TEFL,849101,2026-02-23,https://www.i-to-i.com/about-itoi-tefl/terms-of-service.html,part-009.zip,139816/termtrove_849101_2026-02-23.txt,Service
+14,188321,netcracker.com,911815,2026-07-10,https://netcracker.com/terms-of-use,part-025.zip,188321/termtrove_911815_2026-07-10.txt,Site-only
+15,187707,multisafepay.com,911370,2026-07-10,https://www.multisafepay.com/terms-conditions,part-024.zip,187707/termtrove_911370_2026-07-10.txt,Service
+16,208663,viatris.com,929747,2026-07-13,https://www.viatris.com/en/terms-of-use,part-030.zip,208663/termtrove_929747_2026-07-13.txt,Site-only
+17,194708,takeforshop.com,916659,2026-07-11,https://takeforshop.com/policies/terms-of-service,part-026.zip,194708/termtrove_916659_2026-07-11.txt,Sales terms
+18,132910,ACUVUE® Brand Contact Lenses,883210,2026-07-02,https://www.acuvue.com/en-us/terms-of-use/,part-006.zip,132910/termtrove_883210_2026-07-02.txt,Mixed
+19,139974,Insiderealestate,879051,2026-07-01,https://insiderealestate.com/terms-of-service/,part-009.zip,139974/termtrove_879051_2026-07-01.txt,Mixed
+20,179108,powerpointsandswitches.com.au,905124,2026-07-09,https://www.powerpointsandswitches.com.au/pages/terms-conditions,part-022.zip,179108/termtrove_905124_2026-07-09.txt,Sales terms
+21,170521,financefeeds.com,897941,2026-07-08,https://financefeeds.com/terms-of-use/,part-020.zip,170521/termtrove_897941_2026-07-08.txt,Site-only
+22,197734,wrdtunes.com,1008552,2026-09-14,https://wrdtunes.com/policies/terms-of-service,part-027.zip,197734/termtrove_1008552_2026-09-14.txt,Sales terms
+23,162345,add-ons.org,1002582,2026-09-07,https://add-ons.org/terms,part-018.zip,162345/termtrove_1002582_2026-09-07.txt,Service
+24,241925,getrevising.co.uk,978789,2026-08-10,https://getrevising.co.uk/pages/terms_and_conditions,part-039.zip,241925/termtrove_978789_2026-08-10.txt,Site-only
+25,154597,Tommie Copper®,949525,2026-07-19,https://tommiecopper.com/terms-of-use,part-016.zip,154597/termtrove_949525_2026-07-19.txt,Sales terms
+26,133508,Bitly,842885,2026-02-21,http://virtualfitnesstrainer.com/terms-of-use/,part-006.zip,133508/termtrove_842885_2026-02-21.txt,Site-only
+27,233432,Wowvendor,983448,2026-08-16,https://wowvendor.com/terms-and-conditions,part-037.zip,233432/termtrove_983448_2026-08-16.txt,Service
+28,195162,theguardtower.com,992246,2026-08-24,https://theguardtower.com/pages/terms-of-service,part-026.zip,195162/termtrove_992246_2026-08-24.txt,Sales terms
+29,171448,geograph.org.uk,898567,2026-07-08,https://www.geograph.org.uk/help/terms,part-020.zip,171448/termtrove_898567_2026-07-08.txt,Service
+30,173955,juno.co.uk,987246,2026-08-20,https://www.juno.co.uk/help/terms-and-conditions/,part-021.zip,173955/termtrove_987246_2026-08-20.txt,Sales terms
+31,158026,Pfizer UK,880585,2026-07-01,https://pfizer.co.uk/website-terms-of-use,part-017.zip,158026/termtrove_880585_2026-07-01.txt,Site-only
+32,183931,usshoppingsos.com,908714,2026-07-10,https://usshoppingsos.com/pages/terms-and-conditions-053025,part-024.zip,183931/termtrove_908714_2026-07-10.txt,Sales terms
+33,213931,qminder.com,935002,2026-07-13,https://www.qminder.com/terms-of-service/,part-031.zip,213931/termtrove_935002_2026-07-13.txt,Service
+34,135501,Enbridge Gas,1010885,2026-09-16,https://www.enbridgegas.com/north-carolina/terms-and-conditions,part-007.zip,135501/termtrove_1010885_2026-09-16.txt,Mixed
+35,232897,Tuscaloosa Furniture Outlet,968238,2026-08-03,https://tuscaloosafurnitureoutlet.com/policies/terms-of-service,part-037.zip,232897/termtrove_968238_2026-08-03.txt,Sales terms
+36,202117,teslaacessories.com,922820,2026-07-12,https://www.teslaacessories.com/pages/terms-conditions,part-028.zip,202117/termtrove_922820_2026-07-12.txt,Sales terms
+37,199852,magneticme.com,993112,2026-08-25,https://magneticme.com/pages/terms-conditions,part-027.zip,199852/termtrove_993112_2026-08-25.txt,Sales terms
+38,197042,warmtees.com,918444,2026-07-11,https://warmtees.com/terms-and-conditions,part-027.zip,197042/termtrove_918444_2026-07-11.txt,Sales terms
+39,203247,trackview.net,924173,2026-07-12,https://trackview.net/terms.html,part-028.zip,203247/termtrove_924173_2026-07-12.txt,Service
+40,170382,featurebase.app,897861,2026-07-08,https://help.featurebase.app/articles/5917992-terms-of-service,part-020.zip,170382/termtrove_897861_2026-07-08.txt,Service
+41,180751,sca.auction,906448,2026-07-09,https://sca.auction/en/terms-and-conditions,part-023.zip,180751/termtrove_906448_2026-07-09.txt,Sales terms
+42,197553,womanwithin.com,918833,2026-07-11,https://www.womanwithin.com/c/terms-of-use-ca.html,part-027.zip,197553/termtrove_918833_2026-07-11.txt,Sales terms
+43,211273,yourstuffmade.com,995311,2026-08-28,https://yourstuffmade.com/policies/terms-of-service,part-030.zip,211273/termtrove_995311_2026-08-28.txt,Sales terms
+44,4457,Grand Savings Bank,855632,2026-03-19,https://grandsavingsbank.com/terms-and-conditions/,part-004.zip,4457/termtrove_855632_2026-03-19.txt,Site-only
+45,208466,vinyl.com,929634,2026-07-13,https://vinyl.com/pages/terms-of-service,part-030.zip,208466/termtrove_929634_2026-07-13.txt,Sales terms
+46,191835,retailnext.net,914351,2026-07-10,https://retailnext.net/legal/terms-of-use,part-026.zip,191835/termtrove_914351_2026-07-10.txt,Mixed
+47,177620,omg10.com,903803,2026-07-09,https://omg10.com/assets/terms-of-service.html,part-022.zip,177620/termtrove_903803_2026-07-09.txt,Site-only
+48,166611,canadalightingexperts.com,1004149,2026-09-09,https://www.canadalightingexperts.com/content/termsofuse/info.aspx?bid=footer,part-019.zip,166611/termtrove_1004149_2026-09-09.txt,Sales terms
+49,143014,Corel,857894,2025-10-31,https://corel.com/en/terms-of-use/,part-011.zip,143014/termtrove_857894_2025-10-31.txt,Mixed
+50,186442,majestic.com,910445,2026-07-10,https://majestic.com/company/terms,part-024.zip,186442/termtrove_910445_2026-07-10.txt,Mixed
