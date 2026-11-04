@@ -1,4 +1,3 @@
-# S&P Capital IQ data cannot be redistributed (Stanford GSB license): keep it local
 data/capiq/*.csv
 __pycache__/
 *.pyc
